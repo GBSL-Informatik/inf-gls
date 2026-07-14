@@ -1,2 +1,24 @@
 pages: []
-30Gk: []
+30Gk:
+  - from: docs/OF-Programmieren-1/
+    as: Programmieren 1
+    ignore:
+      - 02-py-intro
+      - 03-repeat
+      - 04-errors
+      - 05-functions
+      - 06-parameters
+      - 07-Variablen
+      - 08-Verzweigungen
+      - 09-While
+      - 10-Rueckgabewerte
+      - 12-rekursion
+      - 15-Gruefnisch
+      - 16-modulo
+      - 20-commands
+      - 21-mistakes.mdx
+      - 30-Repefragen
+      - 50-Test
+      - 51-Tests.mdx
+
+   
