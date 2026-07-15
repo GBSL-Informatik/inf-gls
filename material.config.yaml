@@ -3,8 +3,6 @@ pages: []
   - from: docs/OF-Programmieren-1/
     as: Programmieren 1
     ignore:
-      - 02-py-intro
-      - 03-repeat
       - 04-errors
       - 05-functions
       - 06-parameters
