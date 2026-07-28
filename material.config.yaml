@@ -1,21 +1,27 @@
 pages: []
 30Gk:
-  - from: docs/OF-Programmieren-1/
-    as: Programmieren 1
-    ignore:
-      - 04-errors
-      - 05-functions
-      - 06-parameters
-      - 07-Variablen
-      - 08-Verzweigungen
-      - 09-While
-      - 10-Rueckgabewerte
-      - 12-rekursion
-      - 15-Gruefnisch
-      - 16-modulo
-      - 21-mistakes.mdx
-      - 30-Repefragen
-      - 50-Test
-      - 51-Tests.mdx
+    - from: docs/OF-BYOD-Basics-29/
+      to: versioned_docs/version-30Gk/01-BYOD-Basics-29
+      ignore: 
+          - 02-Dateimanagement
+          - 03-Web.mdx
+          - 04-Kommunikation.mdx
+          - 05-Multimedia.mdx
+    - from: docs/OF-Programmieren-1/
+      to: versioned_docs/version-30Gk/02-Programmieren-1
+      ignore:
+          - 04-errors
+          - 05-functions
+          - 06-parameters
+          - 07-Variablen
+          - 08-Verzweigungen
+          - 09-While
+          - 10-Rueckgabewerte
+          - 12-rekursion
+          - 15-Gruefnisch
+          - 16-modulo
+          - 21-mistakes.mdx
+          - 30-Repefragen
+          - 50-Test
+          - 51-Tests.mdx
 
-   

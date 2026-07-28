@@ -84,6 +84,7 @@
         "remark-math": "^6.0.0",
         "sass": "^1.101.0",
         "socket.io-client": "^4.8.3",
+        "typed.js": "^2.1.0",
         "uuid": "^14.0.1"
     },
     "devDependencies": {
