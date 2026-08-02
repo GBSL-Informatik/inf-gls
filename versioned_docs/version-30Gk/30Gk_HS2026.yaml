@@ -20,15 +20,15 @@
     - "Ziel: Modul 5 fertig"
 - cells:
     - 18.09.2026
-    - Test Schriftlich
-    - Kurztest schriftlich zu den BYOD Basics
-  type: test
-- cells:
-    - 25.09.2026
     - Kennenlernwoche GYM1
     -
   type: holiday
   icon: mdiWalletTravel
+- cells:
+    - 25.09.2026
+    - Herbstferien
+    - 🏝️🏖️🏖️😎
+  type: holiday
 - cells:
     - 02.10.2026
     - Herbstferien
@@ -36,9 +36,9 @@
   type: holiday
 - cells:
     - 09.10.2026
-    - Herbstferien
-    - 🏝️🏖️🏖️😎
-  type: holiday
+    - Test Schriftlich
+    - Kurztest schriftlich zu den BYOD Basics
+  type: test
 - cells:
     - 16.10.2026
     - Test Praktisch

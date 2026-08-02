@@ -25,16 +25,17 @@
     - Wiederholte Ausführung
 - cells:
     - 15.09.2026
-    - B
-    - Programmieren 1
-    - Wiederholte Ausführung
-- cells:
-    - 22.09.2026
     - 
     - Kennenlernwoche GYM1
     - 
   type: holiday
   icon: mdiWalletTravel
+- cells:
+    - 22.09.2026
+    - 
+    - Herbstferien
+    - 🏝️🏖️🏖️😎
+  type: holiday
 - cells:
     - 29.09.2026
     - 
@@ -43,10 +44,9 @@
   type: holiday
 - cells:
     - 06.10.2026
-    - 
-    - Herbstferien
-    - 🏝️🏖️🏖️😎
-  type: holiday
+    - B
+    - Programmieren 1
+    - Wiederholte Ausführung
 - cells:
     - 13.10.2026
     - A
