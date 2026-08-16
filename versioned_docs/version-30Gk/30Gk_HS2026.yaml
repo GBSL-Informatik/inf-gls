@@ -36,13 +36,13 @@
   type: holiday
 - cells:
     - 09.10.2026
-    - Test Schriftlich
-    - Kurztest schriftlich zu den BYOD Basics
-  type: test
+    - Herbstferien
+    - 🏝️🏖️🏖️😎
+  type: holiday
 - cells:
     - 16.10.2026
-    - Test Praktisch
-    - Kurztest praktisch zu den BYOD Basics
+    - Test Schriftlich
+    - Kurztest schriftlich zu den BYOD Basics
   type: test
 - cells:
     - 23.10.2026
@@ -52,21 +52,22 @@
 - cells:
     - 30.10.2026
     - Test Praktisch
-    - Kurztest praktisch zu den BYOD Basics / Vorbereitung "Informatik Biber"
+    - Kurztest praktisch zu den BYOD Basics
   type: test
 - cells:
     - 06.11.2026
-    - Informatik Biber
-    - Vorbereitung "Informatik Biber"
+    - Test Praktisch
+    - Kurztest praktisch zu den BYOD Basics / Vorbereitung "Informatik Biber"
+  type: test
 - cells:
     - 13.11.2026
     - Informatik Biber
-    - Wettbewerb
-  type: event
+    - Vorbereitung "Informatik Biber"
 - cells:
     - 20.11.2026
-    - Programmieren 1
-    - Übungs- und Fragestunde
+    - Informatik Biber
+    - Wettbewerb
+  type: event
 - cells:
     - 27.11.2026
     - Programmieren 1

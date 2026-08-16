@@ -1,12 +1,11 @@
 pages: []
 30Gk:
+    - from: docs/Onboarding/
+      to: versioned_docs/version-30Gk/Onboarding
     - from: docs/OF-BYOD-Basics-29/
       to: versioned_docs/version-30Gk/01-BYOD-Basics-29
-      ignore: 
-          - 02-Dateimanagement
-          - 03-Web.mdx
-          - 04-Kommunikation.mdx
-          - 05-Multimedia.mdx
+      ignore:
+          - 00-Szenarien.mdx
     - from: docs/OF-Programmieren-1/
       to: versioned_docs/version-30Gk/02-Programmieren-1
       ignore:
