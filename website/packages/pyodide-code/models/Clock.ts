@@ -35,6 +35,10 @@ export class Clock {
         this.minutes = deg;
     }
 
+    set_hours = this.setHours;
+    set_minutes = this.setMinutes;
+    set_seconds = this.setSeconds;
+
     @action
     setSeconds(deg: number) {
         this.seconds = deg;
