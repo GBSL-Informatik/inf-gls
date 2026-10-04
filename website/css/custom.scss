@@ -1,0 +1,30 @@
+div[class^='navbarSearchContainer'] {
+    position: static;
+    padding: 0;
+    .DocSearch.DocSearch-Button {
+        border-radius: 50%;
+        height: 34px;
+        width: 34px;
+        margin: 0;
+        margin-left: 0.2em;
+        padding: 0;
+        &:hover {
+            background-color: var(--ifm-hover-overlay);
+        }
+        .DocSearch-Button-Container {
+            margin: 0 auto;
+            .DocSearch-Button-Placeholder {
+                display: none;
+            }
+        }
+        .DocSearch-Button-Keys {
+            display: none;
+        }
+    }
+}
+
+div.no-search {
+    div[class^='navbarSearchContainer'] {
+        display: none;
+    }
+}
