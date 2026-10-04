@@ -108,6 +108,12 @@ const getSiteConfig: SiteConfigProvider = () => {
                     hideable: true
                 }
             },
+            algolia: {
+                appId: '4T9OHXOA26',
+                apiKey: 'f88359368fa1346c7d8dabc3f4d7bc5a',
+                indexName: 'inf-gls',
+                searchPagePath: 'search'
+            },
             prism: {
                 theme: prismThemes.github,
                 darkTheme: prismThemes.dracula,
