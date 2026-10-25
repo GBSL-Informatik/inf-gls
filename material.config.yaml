@@ -11,4 +11,6 @@ pages: []
       ignore:
           - 50-Test
           - 51-Tests.mdx
-
+    - from: docs/IN-Biber/
+      to: versioned_docs/version-30Gk/03-IN-Biber
+    
